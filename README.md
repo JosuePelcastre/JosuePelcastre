@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Josue Pelcastre Santiago
 
-<!--
-**JosuePelcastre/JosuePelcastre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniero en Tecnologías Computacionales, recién egresado de la Universidad Veracruzana.
 
-Here are some ideas to get you started:
+💻 Me interesa el desarrollo de software y la programación. Actualmente estoy fortaleciendo mis conocimientos mediante proyectos prácticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+- **Lenguajes:** Java, Python, C++ y JavaScript
+- **Desarrollo web:** HTML y CSS
+- **Herramientas:** Visual Studio Code, Apache NetBeans y SQL Server
+
+## 🚀 Proyectos
+
+### Antojitos Génesis - Calculadora
+
+Aplicación web sencilla para calcular importes de pedidos y alternar entre precios normales y precios de media orden.
+
+- **Tecnologías:** HTML, CSS y JavaScript.
+- [Ver calculadora en línea](https://josuepelcastre.github.io/Antojitos-genesis-calculadora/)
+- [Ver código fuente](https://github.com/JosuePelcastre/Antojitos-genesis-calculadora)
+
+## 🎯 Objetivo
+
+Seguir aprendiendo, desarrollar nuevos proyectos y adquirir experiencia en el área del desarrollo de software.
